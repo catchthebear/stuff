@@ -1,0 +1,103 @@
+Windows Default Icons:
+
+https://www.digitalcitizen.life/where-find-most-windows-10s-native-icons/
+
+
+%systemroot%\system32\imageres.dll
+
+The imageres.dll file contains many Windows 10 and Windows 11 icons, used almost everywhere in the operating system. It has icons for different types of folders, hardware devices, peripherals, actions, and so on.
+
+%systemroot%\system32\shell32.dll
+
+The shell32.dll file also has lots of icons used in various parts of Windows 10, as well as in Windows 11. Together with imageres.dll and ddores.dll, shell32.dll hosts one of the largest icon collections. Inside it, you can find icons for the internet, devices, networks, peripherals, folders, and so on.
+
+%systemroot%\system32\ddores.dll
+
+Ddores.dll contains a lot of icons for hardware devices and resources, such as speakers, headphones, screens, computers, remotes, gaming pads, mice and keyboards, cameras, and printers.
+
+%systemroot%\system32\pifmgr.dll
+
+Pifmgr.dll contains some old-style icons that were used in older versions of Windows, like Windows 95 and Windows 98. In it, you can find funny icons that depict things such as a window, a trumpet, a ball, and a wizard hat. 🙂
+
+%systemroot%\explorer.exe
+
+Explorer.exe has a few icons used by File Explorer and its older versions. The first icon is the default icon used by File Explorer, but the next ones were used in older Windows versions for things like printers, folders, actions, messenger apps, and mail.
+
+%systemroot%\system32\mmcndmgr.dll
+
+Mmcndmgr.dll is yet another file with vintage icons, which we believe were designed mainly for computer management-related settings. Among others, it includes icons for networks, folders, authentication, time, computers, and servers.
+
+%systemroot%\system32\mmres.dll
+
+Mmres.dll has a few modern-looking icons with various audio resources, like speakers, headphones, microphones, and a webcam.
+
+%systemroot%\system32\netcenter.dll
+
+Netcenter.dll has several icons for network-related settings and features.
+
+%systemroot%\system32\netshell.dll
+
+Netshell.dll contains icons for all kinds of network connections and associated hardware or technologies. For instance, inside it, you can find icons for Bluetooth, wireless routers, and network connections.
+
+%systemroot%\system32\networkexplorer.dll
+
+Networkexplorer.dll is another DLL file with icons for a series of peripherals such as phones, routers, printers, fax machines, and some other network devices.
+
+%systemroot%\system32\pnidui.dll
+
+Pnidui.dll has icons for network-related settings (Ethernet or wireless status, network locations, etc.). Most of the icons here are transparent white, so you have to select them to see what they look like.
+
+%systemroot%\system32\sensorscpl.dll
+
+Sensorscpl.dll has a few icons for different kinds of sensors. While most of them look similar, their details indicate things like temperature, power, and wind.
+
+%systemroot%\system32\setupapi.dll
+
+Setupapi.dll has icons used for the setup wizards of various hardware devices. It has screens, peripherals, hardware components, connectors and plugs, gaming pads, and others.
+
+%systemroot%\system32\wmploc.dll
+
+Wmploc.dll contains multimedia icons used for media devices, audio and video files, folders, CD and DVD discs, and so on.
+
+Icons stored in the wmploc.dll file
+
+%systemroot%\system32\wpdshext.dll
+
+Wpdshext.dll has icons for some portable devices such as cameras, phones, mp3 players, and a few battery indicators.
+
+%systemroot%\system32\compstui.dll
+
+Comstui.dll includes various classic icons from older versions of Windows.
+
+%systemroot%\system32\ieframe.dll
+
+Ieframe.dll contains the icons used by the old Internet Explorer for its shortcuts, buttons, and menus.
+
+%systemroot%\system32\dmdskres.dll
+
+Dmdskres.dll contains icons only used for disk management.
+
+%systemroot%\system32\dsuiext.dll
+
+Dsuiext.dll includes icons for network services. It has icons with servers, people, printers, office buildings, authentication services, and so on.
+
+%systemroot%\system32\mstscax.dll
+
+Mstscax.dll stores just a few icons used for remote desktop connections, with computers, notifications, and security certificates.
+
+%systemroot%\system32\wiashext.dll
+
+Wiashext.dll has a few icons for various imaging hardware devices, like scanners, photo and video cameras, and a few similar icons.
+
+%systemroot%\system32\comres.dll
+
+Comres.dll contains a few icons that depict a user, a folder, a pencil, and some actions.
+
+%systemroot%\system32\mstsc.exe
+
+Mstsc.exe holds a few other network-related icons but also includes other icons like a speaker, a microphone, and the Windows 8 logo.
+
+
+
+
+
